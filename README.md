@@ -1,6 +1,7 @@
+<<<<<<< HEAD
 # Encounter
 
-**TODO: Add description**
+Just some silly tools built in Elixir for D&D 5e. This project is just an excuse to learn Elixir and may morph into something else. Or it might fizzle out into nothing. Who can say?
 
 ## Installation
 
@@ -19,3 +20,5 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/dnd_5e_tools](https://hexdocs.pm/dnd_5e_tools).
 
+# Related links
+[5e database](https://github.com/bagelbits/5e-database)
